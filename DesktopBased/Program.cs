@@ -16,7 +16,7 @@ namespace DesktopBased
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AbsensiSiswa());
+            Application.Run(new KasirOtomatis());
         }
     }
 }
